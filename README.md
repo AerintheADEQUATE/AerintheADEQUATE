@@ -1,3 +1,5 @@
+Currently trying to teach an old dog new tricks.
+
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/691e777a4f5f4db6a0c14c28?variant=dark" alt="roadmap.sh"/></a>
 
 <!--
